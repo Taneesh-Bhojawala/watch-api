@@ -1,0 +1,1488 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Rolex Submariner",
+      "description": "The Rolex Submariner is an icon of luxury diving watches, known for its robust Oyster case, luminous markers, and unidirectional bezel. Crafted from premium stainless steel, it’s equally at home on a dive or at a black-tie event.",
+      "brand": "Rolex",
+      "category": "watches",
+      "price": 8999.99,
+      "discountPercentage": 8.5,
+      "rating": 4.9,
+      "stock": 12,
+      "tags": [
+        "watch",
+        "rolex",
+        "fashion"
+      ],
+      "sku": "WAT-ROL-001",
+      "weight": 150,
+      "dimensions": {
+        "width": 4.2,
+        "height": 1.2,
+        "depth": 4.2
+      },
+      "warrantyInformation": "5 years manufacturer warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 30 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://images.unsplash.com/photo-1670404160620-a3a86428560e?auto=format&fit=max&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1670404160620-a3a86428560e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Um9sZXglMjBTdWJtYXJpbmVyfGVufDB8fDB8fHww"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Incredible craftsmanship. Feels prestigious to wear.",
+          "reviewerName": "Ananya Sharma",
+          "reviewerEmail": "ananya@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the design but it’s definitely overpriced.",
+          "reviewerName": "Robert Klein",
+          "reviewerEmail": "robert@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Expected better water resistance at this price point.",
+          "reviewerName": "Kevin Dsouza",
+          "reviewerEmail": "kevin@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Omega Speedmaster",
+      "description": "The legendary “Moonwatch,” the Omega Speedmaster was worn during the Apollo missions. Its precise chronograph functions and tachymeter scale offer both heritage and technical sophistication.",
+      "brand": "Omega",
+      "category": "watches",
+      "price": 6499.49,
+      "discountPercentage": 10,
+      "rating": 4.8,
+      "stock": 18,
+      "tags": [
+        "watch",
+        "omega",
+        "fashion"
+      ],
+      "sku": "WAT-OME-002",
+      "weight": 148,
+      "dimensions": {
+        "width": 4.4,
+        "height": 1.3,
+        "depth": 4.4
+      },
+      "warrantyInformation": "3 years manufacturer warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 30 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://images.unsplash.com/photo-1588524789663-e6163803c589?q=80&w=913&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1588524789663-e6163803c589?q=80&w=913&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Nice watch but hard to read in the dark.",
+          "reviewerName": "Fatima Noor",
+          "reviewerEmail": "fatima@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Feels like history on your wrist. Moonwatch rocks!",
+          "reviewerName": "Arun Mehta",
+          "reviewerEmail": "arun@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Stopped working after a few weeks. Not impressed.",
+          "reviewerName": "Grace Wells",
+          "reviewerEmail": "grace@example.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Casio G-Shock GA-2100",
+      "description": "Rugged, affordable, and shock-resistant. This watch is known for its octagonal shape, analog-digital combo, and excellent battery life.",
+      "brand": "Casio",
+      "category": "watches",
+      "price": 149.99,
+      "discountPercentage": 15,
+      "rating": 4.6,
+      "stock": 45,
+      "tags": [
+        "watch",
+        "casio",
+        "digital"
+      ],
+      "sku": "WAT-CAS-003",
+      "weight": 72,
+      "dimensions": {
+        "width": 4.3,
+        "height": 1.5,
+        "depth": 4.3
+      },
+      "warrantyInformation": "1 year manufacturer warranty",
+      "shippingInformation": "Ships next day",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "7-day return policy",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0YMKTK75hPMarriDS3A9VVVJz720-Qr9Rw&s",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0YMKTK75hPMarriDS3A9VVVJz720-Qr9Rw&s"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Indestructible! Been using it for over a year now.",
+          "reviewerName": "Rajat Nair",
+          "reviewerEmail": "rajat@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Buttons are small and hard to press.",
+          "reviewerName": "Emily Grant",
+          "reviewerEmail": "emily@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good value but not very stylish.",
+          "reviewerName": "Hassan Qureshi",
+          "reviewerEmail": "hassan@example.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Fossil Grant FS5151",
+      "description": "A classy chronograph with Roman numeral indices and a genuine leather strap, perfect for both formal and casual wear.",
+      "brand": "Fossil",
+      "category": "watches",
+      "price": 199.99,
+      "discountPercentage": 20,
+      "rating": 4.4,
+      "stock": 35,
+      "tags": [
+        "watch",
+        "fossil",
+        "leather"
+      ],
+      "sku": "WAT-FOS-004",
+      "weight": 85,
+      "dimensions": {
+        "width": 4.0,
+        "height": 1.3,
+        "depth": 4.0
+      },
+      "warrantyInformation": "2 years Fossil warranty",
+      "shippingInformation": "Ships in 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 14 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://rukminim2.flixcart.com/image/352/422/kbl4cy80/watch/n/g/h/fs5151-fossil-original-imafswd8yhnxfhtg.jpeg?q=90&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/352/422/kbl4cy80/watch/n/g/h/fs5151-fossil-original-imafswd8yhnxfhtg.jpeg?q=90&crop=false"
+      ],
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Looks premium. Strap started fading though.",
+          "reviewerName": "Liam Walker",
+          "reviewerEmail": "liam@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Stopped working after 3 months. Poor battery life.",
+          "reviewerName": "Shruti Malhotra",
+          "reviewerEmail": "shruti@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Perfect gift for my dad. He loved it!",
+          "reviewerName": "Brian Kim",
+          "reviewerEmail": "brian@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Seiko Prospex",
+      "description": "A robust diver’s watch with automatic movement, built for reliability in extreme conditions with a unidirectional bezel and luminous hands.",
+      "brand": "Seiko",
+      "category": "watches",
+      "price": 529.99,
+      "discountPercentage": 12,
+      "rating": 4.7,
+      "stock": 28,
+      "tags": [
+        "watch",
+        "seiko",
+        "automatic"
+      ],
+      "sku": "WAT-SEI-005",
+      "weight": 140,
+      "dimensions": {
+        "width": 4.1,
+        "height": 1.3,
+        "depth": 4.1
+      },
+      "warrantyInformation": "2 years Seiko warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 30 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://seikoluxe.com/wp-content/uploads/2024/04/SPB451_800x800.jpg",
+      "images": [
+        "https://seikoluxe.com/wp-content/uploads/2024/04/SPB451_800x800.jpg"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great diving watch! Luminescence is excellent.",
+          "reviewerName": "Sofia Lee",
+          "reviewerEmail": "sofia@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Bulky for small wrists but works well.",
+          "reviewerName": "Jason Thomas",
+          "reviewerEmail": "jason@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Strap quality is underwhelming.",
+          "reviewerName": "Naveen Singh",
+          "reviewerEmail": "naveen@example.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Tag Heuer Carrera",
+      "description": "A luxurious Swiss chronograph that blends motorsport heritage with a modern, elegant aesthetic and high-performance functionality.",
+      "brand": "Tag Heuer",
+      "category": "watches",
+      "price": 6999.00,
+      "discountPercentage": 10,
+      "rating": 4.8,
+      "stock": 20,
+      "tags": [
+        "watch",
+        "tag heuer",
+        "luxury"
+      ],
+      "sku": "WAT-TAG-006",
+      "weight": 145,
+      "dimensions": {
+        "width": 4.2,
+        "height": 1.3,
+        "depth": 4.2
+      },
+      "warrantyInformation": "2 years international warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 30 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/t/a/tag-heuer-carrera-cbs2211-fc6545-multiple-6.jpg",
+      "images": [
+        "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/t/a/tag-heuer-carrera-cbs2211-fc6545-multiple-6.jpg"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Elegant, sporty, and accurate. Love this piece.",
+          "reviewerName": "Lisa Roman",
+          "reviewerEmail": "lisa@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Looks good but scratches easily.",
+          "reviewerName": "James Park",
+          "reviewerEmail": "james@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Chronograph works great. Battery could be better.",
+          "reviewerName": "Rehan Shaikh",
+          "reviewerEmail": "rehan@example.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Citizen Eco-Drive",
+      "description": "Powered by light, this watch never needs a battery. Sleek and modern, perfect for everyday wear with minimal maintenance.",
+      "brand": "Citizen",
+      "category": "watches",
+      "price": 299.99,
+      "discountPercentage": 18,
+      "rating": 4.6,
+      "stock": 40,
+      "tags": [
+        "watch",
+        "citizen",
+        "eco-drive"
+      ],
+      "sku": "WAT-CIT-007",
+      "weight": 120,
+      "dimensions": {
+        "width": 4.0,
+        "height": 1.2,
+        "depth": 4.0
+      },
+      "warrantyInformation": "3 years Citizen warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 20 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://citizenwatch.widen.net/content/t00moxzqpv/webp/Tsuki-yomi+A-T.webp?u=41zuoe&width=400&height=400&quality=80&crop=false&keep=c&color=f9f8f6",
+      "images": [
+        "https://citizenwatch.widen.net/content/t00moxzqpv/webp/Tsuki-yomi+A-T.webp?u=41zuoe&width=400&height=400&quality=80&crop=false&keep=c&color=f9f8f6"
+      ],
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "No charging needed is a game changer.",
+          "reviewerName": "Sarah Taylor",
+          "reviewerEmail": "sarah@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "My watch came dead. Not charging at all.",
+          "reviewerName": "Marcus Li",
+          "reviewerEmail": "marcus@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Lightweight and eco-friendly. A must-have!",
+          "reviewerName": "Kiran Desai",
+          "reviewerEmail": "kiran@example.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Rolex Daytona",
+      "description": "A high-performance chronograph engineered for professional racing drivers. Elegant, precise, and a symbol of prestige.",
+      "brand": "Rolex",
+      "category": "watches",
+      "price": 12999.00,
+      "discountPercentage": 5,
+      "rating": 4.95,
+      "stock": 10,
+      "tags": [
+        "watch",
+        "rolex",
+        "chronograph"
+      ],
+      "sku": "WAT-ROL-008",
+      "weight": 155,
+      "dimensions": {
+        "width": 4.3,
+        "height": 1.4,
+        "depth": 4.3
+      },
+      "warrantyInformation": "5 years warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 15 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://img.chrono24.com/images/uhren/34072152-0qk501igkg9ptx2fqqhzeynz-ExtraLarge.jpg",
+      "images": [
+        "https://img.chrono24.com/images/uhren/34072152-0qk501igkg9ptx2fqqhzeynz-ExtraLarge.jpg"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Luxury on your wrist. Feels prestigious.",
+          "reviewerName": "Disha Rao",
+          "reviewerEmail": "disha@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Good but doesn't justify the insane price tag.",
+          "reviewerName": "George Davies",
+          "reviewerEmail": "george@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Looks flashy but mine came with defects.",
+          "reviewerName": "Aaron Fox",
+          "reviewerEmail": "aaron@example.com"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Omega De Ville",
+      "description": "Classic, minimal, and sophisticated — this dress watch stands out with its Co-Axial movement and timeless design.",
+      "brand": "Omega",
+      "category": "watches",
+      "price": 4799.00,
+      "discountPercentage": 7.5,
+      "rating": 4.7,
+      "stock": 25,
+      "tags": [
+        "watch",
+        "omega",
+        "classic"
+      ],
+      "sku": "WAT-OME-009",
+      "weight": 138,
+      "dimensions": {
+        "width": 4.1,
+        "height": 1.2,
+        "depth": 4.1
+      },
+      "warrantyInformation": "4 years warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 20 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://ad.kapoorwatch.com/content/images/product/434.13.41.21.03.002-400.webp",
+      "images": [
+        "https://ad.kapoorwatch.com/content/images/product/434.13.41.21.03.002-400.webp"
+      ],
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very elegant and classy. Great for formal wear.",
+          "reviewerName": "Imran Zaidi",
+          "reviewerEmail": "imran@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Small dial and not very legible in sunlight.",
+          "reviewerName": "Natalie Frost",
+          "reviewerEmail": "natalie@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "A work of art. My favorite dress watch.",
+          "reviewerName": "Jae Yoon",
+          "reviewerEmail": "jae@example.com"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Casio Edifice EFR",
+      "description": "Sporty and stylish, this chronograph features a stainless steel body, accurate quartz movement, and 100m water resistance.",
+      "brand": "Casio",
+      "category": "watches",
+      "price": 169.99,
+      "discountPercentage": 12,
+      "rating": 4.5,
+      "stock": 50,
+      "tags": [
+        "watch",
+        "casio",
+        "metal"
+      ],
+      "sku": "WAT-CAS-010",
+      "weight": 90,
+      "dimensions": {
+        "width": 4.2,
+        "height": 1.2,
+        "depth": 4.2
+      },
+      "warrantyInformation": "1 year Casio warranty",
+      "shippingInformation": "Ships next day",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 7 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://media.casioindiashop.com/assets/products-images/enlarge-image/EX362.webp",
+      "images": [
+        "https://media.casioindiashop.com/assets/products-images/enlarge-image/EX362.webp"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Looks and works like a premium watch at low cost.",
+          "reviewerName": "Abhay Kulkarni",
+          "reviewerEmail": "abhay@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Chronograph stopped working within a month.",
+          "reviewerName": "Julian Moore",
+          "reviewerEmail": "julian@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Sporty and sharp. Happy with this purchase.",
+          "reviewerName": "Anjali Joshi",
+          "reviewerEmail": "anjali@example.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Fossil Machine FS4656",
+      "description": "Industrial-inspired design with a black dial and gunmetal case, great for bold, rugged style statements.",
+      "brand": "Fossil",
+      "category": "watches",
+      "price": 229.99,
+      "discountPercentage": 18,
+      "rating": 4.4,
+      "stock": 30,
+      "tags": [
+        "watch",
+        "fossil",
+        "stainless"
+      ],
+      "sku": "WAT-FOS-011",
+      "weight": 95,
+      "dimensions": {
+        "width": 4.1,
+        "height": 1.3,
+        "depth": 4.1
+      },
+      "warrantyInformation": "2 years Fossil warranty",
+      "shippingInformation": "Ships in 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 14 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://rukminim2.flixcart.com/image/352/422/xif0q/watch/u/c/d/-original-imahczfxk35zh32x.jpeg?q=90&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/352/422/xif0q/watch/u/c/d/-original-imahczfxk35zh32x.jpeg?q=90&crop=false"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Masculine and bold design. Great for daily wear.",
+          "reviewerName": "Tariq Ansari",
+          "reviewerEmail": "tariq@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Bit heavy on the wrist but solid look.",
+          "reviewerName": "Jessica Adams",
+          "reviewerEmail": "jessica@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Strap quality isn't great. Wears out fast.",
+          "reviewerName": "Kunal Bhatia",
+          "reviewerEmail": "kunal@example.com"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Seiko 5 Sports",
+      "description": "A mechanical automatic watch with day-date complication, water resistance, and a sporty metal bracelet.",
+      "brand": "Seiko",
+      "category": "watches",
+      "price": 349.99,
+      "discountPercentage": 10,
+      "rating": 4.6,
+      "stock": 32,
+      "tags": [
+        "watch",
+        "seiko",
+        "sports"
+      ],
+      "sku": "WAT-SEI-012",
+      "weight": 135,
+      "dimensions": {
+        "width": 4.0,
+        "height": 1.3,
+        "depth": 4.0
+      },
+      "warrantyInformation": "2 years Seiko warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 30 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://m.media-amazon.com/images/I/61ftKHyvEVL.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61ftKHyvEVL.jpg"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Iconic and reliable Seiko build quality.",
+          "date": "2025-06-16T11:00:00Z",
+          "reviewerName": "Emily Clark",
+          "reviewerEmail": "emily@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent mechanical movement.",
+          "date": "2025-06-18T10:30:00Z",
+          "reviewerName": "Aman Sharma",
+          "reviewerEmail": "aman@example.com"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Tag Heuer Aquaracer",
+      "description": "Built for aquatic adventures, this diver’s watch offers great water resistance, luminous hands, and durable craftsmanship.",
+      "brand": "Tag Heuer",
+      "category": "watches",
+      "price": 7599.00,
+      "discountPercentage": 9,
+      "rating": 4.7,
+      "stock": 14,
+      "tags": [
+        "watch",
+        "tag heuer",
+        "diver"
+      ],
+      "sku": "WAT-TAG-013",
+      "weight": 152,
+      "dimensions": {
+        "width": 4.2,
+        "height": 1.3,
+        "depth": 4.2
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 20 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://luxurytimeindia.com/cdn/shop/files/WBP5115_2000x2500px_4July2024_SOLDAT.png?v=1748504577",
+      "images": [
+        "https://luxurytimeindia.com/cdn/shop/files/WBP5115_2000x2500px_4July2024_SOLDAT.png?v=1748504577"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Superb diving performance. Elegant too.",
+          "date": "2025-06-10T14:10:00Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Perfect for sports or suits.",
+          "date": "2025-06-12T16:40:00Z",
+          "reviewerName": "Ravi Patel",
+          "reviewerEmail": "ravi@example.com"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Citizen Promaster",
+      "description": "Built for professionals and outdoor enthusiasts. Offers water resistance, Eco-Drive tech, and legible high-contrast dial.",
+      "brand": "Citizen",
+      "category": "watches",
+      "price": 439.00,
+      "discountPercentage": 15,
+      "rating": 4.5,
+      "stock": 26,
+      "tags": [
+        "watch",
+        "citizen",
+        "diver"
+      ],
+      "sku": "WAT-CIT-014",
+      "weight": 130,
+      "dimensions": {
+        "width": 4.3,
+        "height": 1.3,
+        "depth": 4.3
+      },
+      "warrantyInformation": "2 years Citizen warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 30 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsFILbZ5G3A0GSvSqtuP4WI29Cmsmu7RFRg&s",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsFILbZ5G3A0GSvSqtuP4WI29Cmsmu7RFRg&s"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Eco-friendly and tough.",
+          "date": "2025-06-14T09:20:00Z",
+          "reviewerName": "Nina Kapoor",
+          "reviewerEmail": "nina@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great functionality, decent style.",
+          "date": "2025-06-17T15:00:00Z",
+          "reviewerName": "Sneha Verma",
+          "reviewerEmail": "sneha@example.com"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Rolex Explorer",
+      "description": "Crafted for mountaineers and adventurers, the Explorer offers extreme durability and precision in harsh conditions.",
+      "brand": "Rolex",
+      "category": "watches",
+      "price": 10999.00,
+      "discountPercentage": 6,
+      "rating": 4.95,
+      "stock": 11,
+      "tags": [
+        "watch",
+        "rolex",
+        "explorer"
+      ],
+      "sku": "WAT-ROL-015",
+      "weight": 145,
+      "dimensions": {
+        "width": 4.1,
+        "height": 1.4,
+        "depth": 4.1
+      },
+      "warrantyInformation": "5 years Rolex warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 15 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdaBnRmqLUO024V4n1l5-bdmRVqnP8c0Y_Og&s",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdaBnRmqLUO024V4n1l5-bdmRVqnP8c0Y_Og&s"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Strong, elegant, reliable.",
+          "date": "2025-06-28T12:00:00Z",
+          "reviewerName": "Emily Clark",
+          "reviewerEmail": "emily@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "This watch is on another level!",
+          "date": "2025-06-29T09:30:00Z",
+          "reviewerName": "Aman Sharma",
+          "reviewerEmail": "aman@example.com"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Omega Seamaster",
+      "description": "James Bond’s watch of choice — it blends style with functionality, featuring a ceramic bezel and Co-Axial escapement.",
+      "brand": "Omega",
+      "category": "watches",
+      "price": 5899.00,
+      "discountPercentage": 9,
+      "rating": 4.8,
+      "stock": 19,
+      "tags": [
+        "watch",
+        "omega",
+        "seamaster"
+      ],
+      "sku": "WAT-OME-016",
+      "weight": 143,
+      "dimensions": {
+        "width": 4.2,
+        "height": 1.3,
+        "depth": 4.2
+      },
+      "warrantyInformation": "3 years warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 20 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://www.kamalwatch.com/cdn/shop/products/omega-seamaster-diver-300m-21020422003002-l_1.png?v=1685457725",
+      "images": [
+        "https://www.kamalwatch.com/cdn/shop/products/omega-seamaster-diver-300m-21020422003002-l_1.png?v=1685457725"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Feels like a James Bond watch!",
+          "date": "2025-06-14T11:10:00Z",
+          "reviewerName": "Ravi Patel",
+          "reviewerEmail": "ravi@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very durable and stylish.",
+          "date": "2025-06-17T12:45:00Z",
+          "reviewerName": "Emily Clark",
+          "reviewerEmail": "emily@example.com"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Fossil Townsman ME3110",
+      "description": "Automatic movement with open-heart design, complemented by a leather strap and classic dial for vintage vibes.",
+      "brand": "Fossil",
+      "category": "watches",
+      "price": 249.99,
+      "discountPercentage": 17,
+      "rating": 4.5,
+      "stock": 33,
+      "tags": [
+        "watch",
+        "fossil",
+        "automatic"
+      ],
+      "sku": "WAT-FOS-017",
+      "weight": 105,
+      "dimensions": {
+        "width": 4.0,
+        "height": 1.2,
+        "depth": 4.0
+      },
+      "warrantyInformation": "2 years Fossil warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 14 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://mzwatcheslk.com/cdn/shop/products/me3110-fossil-watch-men-blue-dial-leather-brown-strap-automatic-analog-townsman_8_1080x1080.jpg?v=1661219289",
+      "images": [
+        "https://mzwatcheslk.com/cdn/shop/products/me3110-fossil-watch-men-blue-dial-leather-brown-strap-automatic-analog-townsman_8_1080x1080.jpg?v=1661219289"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Open-heart movement is a showstopper.",
+          "date": "2025-06-13T15:10:00Z",
+          "reviewerName": "Sneha Verma",
+          "reviewerEmail": "sneha@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Looks classy with suits.",
+          "date": "2025-06-14T10:25:00Z",
+          "reviewerName": "Nina Kapoor",
+          "reviewerEmail": "nina@example.com"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Casio Pro Trek PRW",
+      "description": "Triple sensor watch with altimeter, barometer, compass, and solar power. Built for hikers and explorers.",
+      "brand": "Casio",
+      "category": "watches",
+      "price": 179.99,
+      "discountPercentage": 14,
+      "rating": 4.3,
+      "stock": 47,
+      "tags": [
+        "watch",
+        "casio",
+        "protrek"
+      ],
+      "sku": "WAT-CAS-018",
+      "weight": 92,
+      "dimensions": {
+        "width": 4.5,
+        "height": 1.5,
+        "depth": 4.5
+      },
+      "warrantyInformation": "1 year Casio warranty",
+      "shippingInformation": "Ships next day",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 7 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnYUptYTbPygZSP-Lk4i4sR1Bbb3WB6xLnQ&s",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnYUptYTbPygZSP-Lk4i4sR1Bbb3WB6xLnQ&s"
+      ],
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Perfect for trekking and hiking.",
+          "date": "2025-06-11T08:00:00Z",
+          "reviewerName": "Aman Sharma",
+          "reviewerEmail": "aman@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent features and GPS accuracy.",
+          "date": "2025-06-12T09:00:00Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john@example.com"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Seiko Astron",
+      "description": "The world’s first GPS solar watch, adjusting time automatically based on your location using satellite signals.",
+      "brand": "Seiko",
+      "category": "watches",
+      "price": 899.99,
+      "discountPercentage": 10,
+      "rating": 4.6,
+      "stock": 22,
+      "tags": [
+        "watch",
+        "seiko",
+        "gps"
+      ],
+      "sku": "WAT-SEI-019",
+      "weight": 128,
+      "dimensions": {
+        "width": 4.3,
+        "height": 1.4,
+        "depth": 4.3
+      },
+      "warrantyInformation": "3 years Seiko warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 30 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://www.seikowatches.com/in-en/-/media/Images/Product--Image/All/Seiko/2022/02/20/05/11/SSH083J1/SSH083J1.png?mh=1200&mw=1200",
+      "images": [
+        "https://www.seikowatches.com/in-en/-/media/Images/Product--Image/All/Seiko/2022/02/20/05/11/SSH083J1/SSH083J1.png?mh=1200&mw=1200"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect GPS and solar combo.",
+          "date": "2025-06-18T10:10:00Z",
+          "reviewerName": "Emily Clark",
+          "reviewerEmail": "emily@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent for travel.",
+          "date": "2025-06-20T11:00:00Z",
+          "reviewerName": "Nina Kapoor",
+          "reviewerEmail": "nina@example.com"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Citizen Chandler",
+      "description": "A field-style watch with a rugged nylon strap, luminous hands, and solar-powered Eco-Drive movement.",
+      "brand": "Citizen",
+      "category": "watches",
+      "price": 279.99,
+      "discountPercentage": 13,
+      "rating": 4.4,
+      "stock": 37,
+      "tags": [
+        "watch",
+        "citizen",
+        "eco-drive"
+      ],
+      "sku": "WAT-CIT-020",
+      "weight": 112,
+      "dimensions": {
+        "width": 4.0,
+        "height": 1.3,
+        "depth": 4.0
+      },
+      "warrantyInformation": "3 years Citizen warranty",
+      "shippingInformation": "Ships in 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 15 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://m.media-amazon.com/images/I/81Frs88GSeL._SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81Frs88GSeL._SL1500_.jpg"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Simple and functional design.",
+          "date": "2025-06-22T08:40:00Z",
+          "reviewerName": "Ravi Patel",
+          "reviewerEmail": "ravi@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Reliable and eco-friendly.",
+          "date": "2025-06-23T09:45:00Z",
+          "reviewerName": "Sneha Verma",
+          "reviewerEmail": "sneha@example.com"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Tag Heuer Formula 1",
+      "description": "A motorsport-inspired chronograph with bold design, tachymeter bezel, and Swiss reliability.",
+      "brand": "Tag Heuer",
+      "category": "watches",
+      "price": 4599.00,
+      "discountPercentage": 11,
+      "rating": 4.6,
+      "stock": 20,
+      "tags": [
+        "watch",
+        "tag heuer",
+        "sport"
+      ],
+      "sku": "WAT-TAG-021",
+      "weight": 140,
+      "dimensions": {
+        "width": 4.2,
+        "height": 1.2,
+        "depth": 4.2
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 20 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw42629998/TAG_Heuer_Formula_1/WBY111A.FT8106/WBY111A.FT8106_0913.png",
+      "images": [
+        "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw42629998/TAG_Heuer_Formula_1/WBY111A.FT8106/WBY111A.FT8106_0913.png"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Sharp looks and very precise.",
+          "date": "2025-06-12T09:30:00Z",
+          "reviewerName": "Aman Sharma",
+          "reviewerEmail": "aman@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Rugged yet stylish.",
+          "date": "2025-06-13T10:00:00Z",
+          "reviewerName": "Nina Kapoor",
+          "reviewerEmail": "nina@example.com"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Casio Vintage A168",
+      "description": "Retro design meets practicality. Digital display, alarm, stopwatch, and LED light in a compact classic form",
+      "brand": "Casio",
+      "category": "watches",
+      "price": 49.99,
+      "discountPercentage": 20,
+      "rating": 4.3,
+      "stock": 80,
+      "tags": [
+        "watch",
+        "casio",
+        "retro"
+      ],
+      "sku": "WAT-CAS-022",
+      "weight": 60,
+      "dimensions": {
+        "width": 3.5,
+        "height": 1.1,
+        "depth": 3.5
+      },
+      "warrantyInformation": "1 year Casio warranty",
+      "shippingInformation": "Ships next day",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 7 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://media.casioindiashop.com/assets/products-images/enlarge-image/D182.webp",
+      "images": [
+        "https://media.casioindiashop.com/assets/products-images/enlarge-image/D182.webp"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Classic retro vibes. Love it!",
+          "date": "2025-06-10T11:30:00Z",
+          "reviewerName": "Sneha Verma",
+          "reviewerEmail": "sneha@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Display a bit small, but functional.",
+          "date": "2025-06-11T13:15:00Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john@example.com"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Fossil Nate JR1401",
+      "description": "Oversized black-on-black chronograph with military-inspired styling and strong wrist presence.",
+      "brand": "Fossil",
+      "category": "watches",
+      "price": 189.99,
+      "discountPercentage": 16,
+      "rating": 4.5,
+      "stock": 42,
+      "tags": [
+        "watch",
+        "fossil",
+        "black"
+      ],
+      "sku": "WAT-FOS-023",
+      "weight": 125,
+      "dimensions": {
+        "width": 4.6,
+        "height": 1.4,
+        "depth": 4.6
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 15 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://m.media-amazon.com/images/I/71kbRVr8YfL._UY1000_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71kbRVr8YfL._UY1000_.jpg"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "All-black look is very sleek.",
+          "date": "2025-06-08T08:30:00Z",
+          "reviewerName": "Emily Clark",
+          "reviewerEmail": "emily@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Strap is a bit stiff at first.",
+          "date": "2025-06-10T09:20:00Z",
+          "reviewerName": "Aman Sharma",
+          "reviewerEmail": "aman@example.com"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Seiko Presage Cocktail Time",
+      "description": "A dress watch with a dial inspired by cocktail textures, known for its craftsmanship and elegance.",
+      "brand": "Seiko",
+      "category": "watches",
+      "price": 599.99,
+      "discountPercentage": 10,
+      "rating": 4.7,
+      "stock": 18,
+      "tags": [
+        "watch",
+        "seiko",
+        "dress"
+      ],
+      "sku": "WAT-SEI-024",
+      "weight": 118,
+      "dimensions": {
+        "width": 4.0,
+        "height": 1.3,
+        "depth": 4.0
+      },
+      "warrantyInformation": "2 years Seiko warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 30 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://www.seikowatches.com/in-en/-/media/Images/Product--Image/All/Seiko/2022/02/20/01/55/SRPB41J1/SRPB41J1.png?mh=1200&mw=1200",
+      "images": [
+        "https://www.seikowatches.com/in-en/-/media/Images/Product--Image/All/Seiko/2022/02/20/01/55/SRPB41J1/SRPB41J1.png?mh=1200&mw=1200"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Beautiful dial and smooth movement.",
+          "date": "2025-06-19T12:00:00Z",
+          "reviewerName": "Nina Kapoor",
+          "reviewerEmail": "nina@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very elegant but a bit delicate.",
+          "date": "2025-06-21T14:30:00Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john@example.com"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Citizen Brycen Chronograph",
+      "description": "Features chronograph subdials, Eco-Drive technology, and a rugged stainless steel case.",
+      "brand": "Citizen",
+      "category": "watches",
+      "price": 329.99,
+      "discountPercentage": 13,
+      "rating": 4.5,
+      "stock": 29,
+      "tags": [
+        "watch",
+        "citizen",
+        "chronograph"
+      ],
+      "sku": "WAT-CIT-025",
+      "weight": 132,
+      "dimensions": {
+        "width": 4.3,
+        "height": 1.4,
+        "depth": 4.3
+      },
+      "warrantyInformation": "3 years Citizen warranty",
+      "shippingInformation": "Ships in 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 15 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWZGedtQZStJn8cudM16-nGJKBQrd10-PuQ&s",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWZGedtQZStJn8cudM16-nGJKBQrd10-PuQ&s"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great chronograph for the price.",
+          "date": "2025-06-22T09:10:00Z",
+          "reviewerName": "Ravi Patel",
+          "reviewerEmail": "ravi@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good strap quality, stylish.",
+          "date": "2025-06-24T10:20:00Z",
+          "reviewerName": "Sneha Verma",
+          "reviewerEmail": "sneha@example.com"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Rolex Oyster Perpetual",
+      "description": "A cornerstone of Rolex design. Automatic movement, stainless steel, and timeless style.",
+      "brand": "Rolex",
+      "category": "watches",
+      "price": 11999.00,
+      "discountPercentage": 5,
+      "rating": 4.95,
+      "stock": 9,
+      "tags": [
+        "watch",
+        "rolex",
+        "classic"
+      ],
+      "sku": "WAT-ROL-026",
+      "weight": 140,
+      "dimensions": {
+        "width": 4.0,
+        "height": 1.2,
+        "depth": 4.0
+      },
+      "warrantyInformation": "5 years Rolex warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 15 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://exclusivelinesindia.com/uploads/rolex/watch-assets/watch_assets/upright_watches_assets/desktop/m124300-0002_drp-upright-bba-with-shadow.webp",
+      "images": [
+        "https://exclusivelinesindia.com/uploads/rolex/watch-assets/watch_assets/upright_watches_assets/desktop/m124300-0002_drp-upright-bba-with-shadow.webp"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Timeless elegance and reliability.",
+          "date": "2025-06-26T10:00:00Z",
+          "reviewerName": "Emily Clark",
+          "reviewerEmail": "emily@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Feels premium and smooth.",
+          "date": "2025-06-28T13:15:00Z",
+          "reviewerName": "Aman Sharma",
+          "reviewerEmail": "aman@example.com"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Omega Constellation",
+      "description": "Elegant and luxurious, with the signature star at 6 o’clock and finely crafted bracelet links.",
+      "brand": "Omega",
+      "category": "watches",
+      "price": 6799.00,
+      "discountPercentage": 7,
+      "rating": 4,
+      "stock": 16,
+      "tags": [
+        "watch",
+        "omega",
+        "luxury"
+      ],
+      "sku": "WAT-OME-027",
+      "weight": 135,
+      "dimensions": {
+        "width": 4.2,
+        "height": 1.3,
+        "depth": 4.2
+      },
+      "warrantyInformation": "4 years warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 20 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://img.chrono24.com/images/uhren/37416754-cyttyw8rbo6eimz7w1tokmbm-ExtraLarge.jpg",
+      "images": [
+        "https://img.chrono24.com/images/uhren/37416754-cyttyw8rbo6eimz7w1tokmbm-ExtraLarge.jpg"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Elegant and highly accurate.",
+          "date": "2025-06-24T11:00:00Z",
+          "reviewerName": "Ravi Patel",
+          "reviewerEmail": "ravi@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Great for business professionals.",
+          "date": "2025-06-25T12:45:00Z",
+          "reviewerName": "Nina Kapoor",
+          "reviewerEmail": "nina@example.com"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Citizen Eco-Drive Chrono",
+      "description": "Sleek chronograph with solar-powered movement and modern dial design for daily wear.",
+      "brand": "Citizen",
+      "category": "watches",
+      "price": 359.99,
+      "discountPercentage": 12,
+      "rating": 4.5,
+      "stock": 24,
+      "tags": [
+        "watch",
+        "citizen",
+        "chrono"
+      ],
+      "sku": "WAT-CIT-028",
+      "weight": 120,
+      "dimensions": {
+        "width": 4.1,
+        "height": 1.3,
+        "depth": 4.1
+      },
+      "warrantyInformation": "3 years warranty",
+      "shippingInformation": "Ships in 2 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 15 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdXg9wCKU11uNq-Mq2pnJXazYYTpKbEgtsaQ&s",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdXg9wCKU11uNq-Mq2pnJXazYYTpKbEgtsaQ&s"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Runs forever, eco-friendly.",
+          "date": "2025-06-19T14:20:00Z",
+          "reviewerName": "Emily Clark",
+          "reviewerEmail": "emily@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Feels light on wrist.",
+          "date": "2025-06-21T09:50:00Z",
+          "reviewerName": "Sneha Verma",
+          "reviewerEmail": "sneha@example.com"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Fossil Hybrid HR Collider",
+      "description": "A smart hybrid watch that combines analog style with connected features like fitness tracking.",
+      "brand": "Fossil",
+      "category": "watches",
+      "price": 199.99,
+      "discountPercentage": 15,
+      "rating": 4.5,
+      "stock": 30,
+      "tags": [
+        "watch",
+        "fossil",
+        "smart"
+      ],
+      "sku": "WAT-FOS-029",
+      "weight": 110,
+      "dimensions": {
+        "width": 4.2,
+        "height": 1.4,
+        "depth": 4.2
+      },
+      "warrantyInformation": "2 years Fossil warranty",
+      "shippingInformation": "Ships in 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 14 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://rukminim2.flixcart.com/image/300/300/ka492fk0/smartwatch/r/4/m/ftw7008-android-ios-fossil-original-imafrrzyec6zzdya.jpeg",
+      "images": [
+        "https://rukminim2.flixcart.com/image/300/300/ka492fk0/smartwatch/r/4/m/ftw7008-android-ios-fossil-original-imafrrzyec6zzdya.jpeg"
+      ],
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Analog feel with smart tech.",
+          "date": "2025-06-15T11:30:00Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Perfect blend of old and new.",
+          "date": "2025-06-16T13:00:00Z",
+          "reviewerName": "Nina Kapoor",
+          "reviewerEmail": "nina@example.com"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Rolex GMT-Master II",
+      "description": "Designed for pilots and travelers, this dual-timezone watch features the iconic Cerachrom bezel and Rolex automatic caliber.",
+      "brand": "Rolex",
+      "category": "watches",
+      "price": 13999.00,
+      "discountPercentage": 4,
+      "rating": 5.0,
+      "stock": 5,
+      "tags": [
+        "watch",
+        "rolex",
+        "gmt"
+      ],
+      "sku": "WAT-ROL-030",
+      "weight": 148,
+      "dimensions": {
+        "width": 4.3,
+        "height": 1.4,
+        "depth": 4.3
+      },
+      "warrantyInformation": "5 years Rolex warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "returnPolicy": "Return within 15 days",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://cdn2.ethoswatches.com/rolex/pub/media/catalog/product//m/1/m126710blnr-0003-drp-upright-bba-with-shadow.png",
+      "images": [
+        "https://cdn2.ethoswatches.com/rolex/pub/media/catalog/product//m/1/m126710blnr-0003-drp-upright-bba-with-shadow.png"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "The ultimate traveler’s watch.",
+          "date": "2025-06-30T10:00:00Z",
+          "reviewerName": "Aman Sharma",
+          "reviewerEmail": "aman@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Luxury, accuracy, and heritage.",
+          "date": "2025-07-01T11:20:00Z",
+          "reviewerName": "Ravi Patel",
+          "reviewerEmail": "ravi@example.com"
+        }
+      ]
+    }
+  ]
+}
