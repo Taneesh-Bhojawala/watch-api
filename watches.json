@@ -10,6 +10,7 @@
       "discountPercentage": 8.5,
       "rating": 4.9,
       "stock": 12,
+      "strap": "Metal",
       "tags": [
         "watch",
         "rolex",
@@ -62,6 +63,7 @@
       "discountPercentage": 10,
       "rating": 4.8,
       "stock": 18,
+      "strap": "Metal",
       "tags": [
         "watch",
         "omega",
@@ -114,6 +116,7 @@
       "discountPercentage": 15,
       "rating": 4.6,
       "stock": 45,
+      "strap": "Rubber",
       "tags": [
         "watch",
         "casio",
@@ -166,6 +169,7 @@
       "discountPercentage": 20,
       "rating": 4.4,
       "stock": 35,
+      "strap": "Leather",
       "tags": [
         "watch",
         "fossil",
@@ -218,6 +222,7 @@
       "discountPercentage": 12,
       "rating": 4.7,
       "stock": 28,
+      "strap": "Metal",
       "tags": [
         "watch",
         "seiko",
@@ -270,6 +275,7 @@
       "discountPercentage": 10,
       "rating": 4.8,
       "stock": 20,
+      "strap": "Leather",
       "tags": [
         "watch",
         "tag heuer",
@@ -322,6 +328,7 @@
       "discountPercentage": 18,
       "rating": 4.6,
       "stock": 40,
+      "strap": "Metal",
       "tags": [
         "watch",
         "citizen",
@@ -371,9 +378,10 @@
       "brand": "Rolex",
       "category": "watches",
       "price": 12999.00,
-      "discountPercentage": 5,
+      "discountPercentage": 0,
       "rating": 4.95,
       "stock": 10,
+      "strap": "Metal",
       "tags": [
         "watch",
         "rolex",
@@ -426,6 +434,7 @@
       "discountPercentage": 7.5,
       "rating": 4.7,
       "stock": 25,
+      "strap": "Leather",
       "tags": [
         "watch",
         "omega",
@@ -478,6 +487,7 @@
       "discountPercentage": 12,
       "rating": 4.5,
       "stock": 50,
+      "strap": "Metal",
       "tags": [
         "watch",
         "casio",
@@ -530,6 +540,7 @@
       "discountPercentage": 18,
       "rating": 4.4,
       "stock": 30,
+      "strap": "Leather",
       "tags": [
         "watch",
         "fossil",
@@ -582,6 +593,7 @@
       "discountPercentage": 10,
       "rating": 4.6,
       "stock": 32,
+      "strap": "Metal",
       "tags": [
         "watch",
         "seiko",
@@ -630,6 +642,7 @@
       "discountPercentage": 9,
       "rating": 4.7,
       "stock": 14,
+      "strap": "Metal",
       "tags": [
         "watch",
         "tag heuer",
@@ -675,9 +688,10 @@
       "brand": "Citizen",
       "category": "watches",
       "price": 439.00,
-      "discountPercentage": 15,
+      "discountPercentage": 0,
       "rating": 4.5,
       "stock": 26,
+      "strap": "Rubber",
       "tags": [
         "watch",
         "citizen",
@@ -726,6 +740,7 @@
       "discountPercentage": 6,
       "rating": 4.95,
       "stock": 11,
+      "strap": "Metal",
       "tags": [
         "watch",
         "rolex",
@@ -774,6 +789,7 @@
       "discountPercentage": 9,
       "rating": 4.8,
       "stock": 19,
+      "strap": "Metal",
       "tags": [
         "watch",
         "omega",
@@ -822,6 +838,7 @@
       "discountPercentage": 17,
       "rating": 4.5,
       "stock": 33,
+      "strap": "Leather",
       "tags": [
         "watch",
         "fossil",
@@ -870,6 +887,7 @@
       "discountPercentage": 14,
       "rating": 4.3,
       "stock": 47,
+      "strap": "Rubber",
       "tags": [
         "watch",
         "casio",
@@ -918,6 +936,7 @@
       "discountPercentage": 10,
       "rating": 4.6,
       "stock": 22,
+      "strap": "Metal",
       "tags": [
         "watch",
         "seiko",
@@ -966,6 +985,7 @@
       "discountPercentage": 13,
       "rating": 4.4,
       "stock": 37,
+      "strap": "Leather",
       "tags": [
         "watch",
         "citizen",
@@ -1014,6 +1034,7 @@
       "discountPercentage": 11,
       "rating": 4.6,
       "stock": 20,
+      "strap": "Rubber",
       "tags": [
         "watch",
         "tag heuer",
@@ -1062,6 +1083,7 @@
       "discountPercentage": 20,
       "rating": 4.3,
       "stock": 80,
+      "strap": "Metal",
       "tags": [
         "watch",
         "casio",
@@ -1107,9 +1129,10 @@
       "brand": "Fossil",
       "category": "watches",
       "price": 189.99,
-      "discountPercentage": 16,
+      "discountPercentage": 0,
       "rating": 4.5,
       "stock": 42,
+      "strap": "Metal",
       "tags": [
         "watch",
         "fossil",
@@ -1158,6 +1181,7 @@
       "discountPercentage": 10,
       "rating": 4.7,
       "stock": 18,
+      "strap": "Metal",
       "tags": [
         "watch",
         "seiko",
@@ -1206,6 +1230,7 @@
       "discountPercentage": 13,
       "rating": 4.5,
       "stock": 29,
+      "strap": "Leather",
       "tags": [
         "watch",
         "citizen",
@@ -1254,6 +1279,7 @@
       "discountPercentage": 5,
       "rating": 4.95,
       "stock": 9,
+      "strap": "Metal",
       "tags": [
         "watch",
         "rolex",
@@ -1302,6 +1328,7 @@
       "discountPercentage": 7,
       "rating": 4,
       "stock": 16,
+      "strap": "Metal",
       "tags": [
         "watch",
         "omega",
@@ -1350,6 +1377,7 @@
       "discountPercentage": 12,
       "rating": 4.5,
       "stock": 24,
+      "strap": "Leather",
       "tags": [
         "watch",
         "citizen",
@@ -1398,6 +1426,7 @@
       "discountPercentage": 15,
       "rating": 4.5,
       "stock": 30,
+      "strap": "Leather",
       "tags": [
         "watch",
         "fossil",
@@ -1446,6 +1475,7 @@
       "discountPercentage": 4,
       "rating": 5.0,
       "stock": 5,
+      "strap": "Metal",	
       "tags": [
         "watch",
         "rolex",
