@@ -36,4 +36,13 @@ app.delete("/api/watches/:id", (req, res) => {
   res.json({ message: "Deleted successfully" });
 });
 
+app.get("/api/suggestions", (req, res) => {
+  const query = req.query.q?.toLowerCase() || "";
+  const matches = watches.products
+    .map((p) => p.title)
+    .filter((title) => title.toLowerCase().includes(query));
+  res.json([...new Set(matches)].slice(0, 7)); // top 7 unique suggestions
+});
+
+
 app.listen(PORT, () => console.log(`✅ Server running at http://localhost:${PORT}`));
